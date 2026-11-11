@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AplicacionIOT</string>
+    <string name="formato_temperatura">%1$s °C</string>
+    <string name="formato_humedad">%1$s %%</string>
+</resources>
